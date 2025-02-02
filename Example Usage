@@ -1,0 +1,30 @@
+University Admission & Maintenance System
+1. Add Student
+2. Register Student for Course
+3. Assign Grade to Student
+4. Get Student Grade
+5. View All Students
+6. Exit
+
+Enter your choice (1-6): 1
+Enter student ID: S001
+Enter student name: John Doe
+Enter student age: 20
+Enter student gender (Male/Female): Male
+Student John Doe added successfully.
+
+Enter your choice (1-6): 2
+Enter student ID: S001
+Enter course name: Computer Science 101
+John Doe has been registered for the course: Computer Science 101.
+
+Enter your choice (1-6): 3
+Enter student ID: S001
+Enter course name: Computer Science 101
+Enter grade: A
+John Doe's grade for Computer Science 101 has been assigned: A
+
+Enter your choice (1-6): 4
+Enter student ID: S001
+Enter course name: Computer Science 101
+John Doe's grade for Computer Science 101: A
